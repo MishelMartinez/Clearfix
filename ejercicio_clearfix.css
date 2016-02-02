@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet"  href="clearfix_css.css">
+</head>
+<body>
+	<div class="cv clearfix">
+		<div class="down "  id="yellow"></div>
+		<div class="down" id ="blue"></div>
+		<div class="down" id="pink"></div>
+	</div>
+
+
+</body>
+</html>

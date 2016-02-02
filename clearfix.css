@@ -1,0 +1,33 @@
+div>div{
+		width: 95px;
+		height: 35px;
+		float: right;
+		
+	
+	}
+	.cv{
+		width: 500px;
+		margin-top: 20px;
+		border:2px solid black;
+
+
+	}
+	#yellow{
+		background-color: yellow;
+	}
+	#blue{
+background-color: blue;
+	}
+	#pink{
+		background-color: pink;
+
+	}
+	.clearfix:after{
+		clear:both;
+	}
+	.clearfix:before, .clearfix:after{
+		content: "";
+		display: table;
+
+
+	}
